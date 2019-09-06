@@ -30,13 +30,27 @@ Edit this document to include your answers after each question. Make sure to lea
 
 1. What is the DOM?
 
+    document object model. The structure of documents and also how the document is accessed/changed/manipulated.
+
 2. What is an event?
+
+    things that happen to HTML elements such as being clicked, scrolled, hovered, etc.
 
 3. What is an event listener?
 
+    async code that is "listening" for events that are triggered and will run a piece of code based on the event triggering
+
 4. Why would we convert a NodeList into an Array?
 
+    Array.from(). for example: 
+    ```js
+    const nodelist = document.querySelectorAll('ajkdfjklaf'); 
+    const arrayFromNL = Array.from(nodeList);
+    ```
+
 5. What is a component?
+
+    reusable pieces of code that we can use to follow DRY principles
 
 ### Git Set up
 
