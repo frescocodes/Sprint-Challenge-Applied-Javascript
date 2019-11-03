@@ -17,3 +17,18 @@
     <div class="right-button"> > </div>
   </div>
 */
+// const carouselEntry = document.querySelector('.carousel-container');
+// const carouselImgs = [
+//   "assets/carousel/computer.jpeg"
+// ]
+
+
+
+// const carousel = (imgs) => {
+//   // create elements
+//   const carousel = document.createElement('div');
+//   const img = document.createElement('img');
+//   const leftButton = document.createElement('div');
+//   const rightButton = document.createElement('div');
+
+// }
